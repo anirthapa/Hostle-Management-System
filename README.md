@@ -39,7 +39,6 @@ Hostel Ease is a web platform that helps users find hostels based on their locat
 - **Backend:** Node.js, Express.js
 - **Database:** PostgreSQL (with Prisma ORM)
 - **Authentication:** JWT Authentication
-- **Hosting:** Vercel (Frontend), Render/Heroku (Backend)
 
 ## Installation & Setup
 
@@ -87,8 +86,6 @@ Once both frontend and backend are running, open `http://localhost:5173` to acce
 - ⭐ **AI-based Hostel Recommendations**
 
 - ⭐ **Enhanced Security Features**
-
-- ⭐ **Payment Integration**
 
 ##
 
